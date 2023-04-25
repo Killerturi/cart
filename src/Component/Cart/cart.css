@@ -1,0 +1,11 @@
+@media screen and (max-width:750px) {
+    .cartContainer {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .cartItem_details {
+        display: flex;
+        flex-direction: column;
+    }
+}
